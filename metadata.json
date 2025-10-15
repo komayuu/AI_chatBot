@@ -1,0 +1,5 @@
+{
+  "name": "React AI Tutor E-Textbook",
+  "description": "An interactive e-textbook for learning React, featuring an AI-powered tutor built with the Gemini API. The AI first attempts to answer questions using the textbook content before consulting its broader knowledge base.",
+  "requestFramePermissions": []
+}
